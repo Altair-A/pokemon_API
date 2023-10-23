@@ -1,0 +1,20 @@
+POKEMON
+{
+    "name" :"Blatoise",
+    "hp": 80,
+    "attack":50, 
+     "defense":50,
+     "s_Attack":50, 
+     "s_defence":50,
+     "speed":50,
+    "types" :[],
+    "weaknesses" :[],
+    "skills":[]
+}
+
+
+     "attack":50, 
+     "defense":50,
+     "s_Attack":50, 
+     "s_defence":50,
+     "speed":50,
